@@ -1,0 +1,22 @@
+export const routes = [
+    {
+        name:"home",
+        href:"/"
+    },
+    {
+        name:"profile",
+        href:"/#profile"
+    },
+    {
+        name:"experience",
+        href:"/#experience"
+    },
+    {
+        name:"education",
+        href:"/#education"
+    },
+    {
+        name:"skills",
+        href:"/#skills"
+    },
+]
